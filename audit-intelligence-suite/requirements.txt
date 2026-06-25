@@ -1,0 +1,11 @@
+streamlit>=1.32.0
+pandas>=2.1.0
+numpy>=1.26.0
+plotly>=5.18.0
+streamlit-aggrid>=1.0.5
+openpyxl>=3.1.2
+xlsxwriter>=3.1.9
+networkx>=3.2.1
+scikit-learn>=1.4.0
+reportlab>=4.0.9
+Pillow>=10.2.0
